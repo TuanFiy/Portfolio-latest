@@ -222,8 +222,8 @@ const Home: React.FC = () => {
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-4">
-                  <a
-                    href="#"
+                  <Link
+                    to="CinemaTicket"
                     className="p-2 bg-white text-black rounded-full hover:bg-gray-200"
                   >
                     <svg
@@ -241,7 +241,7 @@ const Home: React.FC = () => {
                       <polyline points="15 3 21 3 21 9" />
                       <line x1="10" y1="14" x2="21" y2="3" />
                     </svg>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <div className="p-6">
@@ -333,8 +333,8 @@ const Home: React.FC = () => {
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-4">
-                  <a
-                    href="#"
+                  <Link
+                    to="fynxEComerce"
                     className="p-2 bg-white text-black rounded-full hover:bg-gray-200"
                   >
                     <svg
@@ -352,7 +352,7 @@ const Home: React.FC = () => {
                       <polyline points="15 3 21 3 21 9" />
                       <line x1="10" y1="14" x2="21" y2="3" />
                     </svg>
-                  </a>{" "}
+                  </Link>
                 </div>
               </div>
               <div className="p-6">
@@ -381,8 +381,8 @@ const Home: React.FC = () => {
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-4">
-                  <a
-                    href="#"
+                  <Link
+                    to="musicPlayer"
                     className="p-2 bg-white text-black rounded-full hover:bg-gray-200"
                   >
                     <svg
@@ -400,7 +400,7 @@ const Home: React.FC = () => {
                       <polyline points="15 3 21 3 21 9" />
                       <line x1="10" y1="14" x2="21" y2="3" />
                     </svg>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <div className="p-6">
@@ -429,8 +429,8 @@ const Home: React.FC = () => {
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-4">
-                  <a
-                    href="#"
+                  <Link
+                    to="Portfolio"
                     className="p-2 bg-white text-black rounded-full hover:bg-gray-200"
                   >
                     <svg
@@ -448,7 +448,7 @@ const Home: React.FC = () => {
                       <polyline points="15 3 21 3 21 9" />
                       <line x1="10" y1="14" x2="21" y2="3" />
                     </svg>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <div className="p-6">
@@ -491,8 +491,8 @@ const Home: React.FC = () => {
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-4">
-                  <a
-                    href="#"
+                  <Link
+                    to="MiniProject"
                     className="p-2 bg-white text-black rounded-full hover:bg-gray-200"
                   >
                     <svg
@@ -510,7 +510,7 @@ const Home: React.FC = () => {
                       <polyline points="15 3 21 3 21 9" />
                       <line x1="10" y1="14" x2="21" y2="3" />
                     </svg>
-                  </a>
+                  </Link>
                 </div>
               </div>
               <div className="p-6">
