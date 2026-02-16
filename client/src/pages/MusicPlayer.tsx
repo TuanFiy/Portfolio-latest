@@ -3,7 +3,6 @@ import Navbar from "../components/NavbarProjects";
 import bgbowl from "../assets/bgbowl.avif";
 import BowlFitVideo from "../assets/BowlFitVideo.mp4";
 import poster from "../assets/poster.png";
-import { href } from "react-router-dom";
 
 const BowlFit = () => {
   return (
