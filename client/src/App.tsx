@@ -21,7 +21,7 @@ const App: React.FC = () => {
           <Route path="MusicPlayer" element={<MusicPlayer />} />
           <Route path="Portfolio" element={<Home />} />
           <Route path="MiniProject" element={<MiniProject />} />
-          <Route path="fynxEComerce" element={<FynxEComerce />} />
+          <Route path="FynxEComerce" element={<FynxEComerce />} />
         </Route>
       </Routes>
     </Router>
