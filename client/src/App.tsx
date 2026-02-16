@@ -7,7 +7,7 @@ import BowlFit from "./pages/BowlFit";
 import CinemaTicket from "./pages/CinemaTicket";
 import MusicPlayer from "./pages/MusicPlayer";
 import MiniProject from "./pages/MiniProject";
-import FynxEComerce from "./pages/fynxEComerce";
+import FynxEComerce from "./pages/FynxEComerce";
 
 const App: React.FC = () => {
   return (
